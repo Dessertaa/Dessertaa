@@ -13,7 +13,5 @@
 
 <img src="https://komarev.com/ghpvc/?username=Dessertaa&style=flat-square&color=blue" alt=""/>
 
-<h1>
-  Всем привет
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY5MTk0Mzk2NDkxOTNiZDA5ZDlhYWZhOWNjMGU1ZGVjNTAwMGQ1NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/w1OBpBd7kJqHrJnJ13/giphy.gif" width="35px"/>
-</h1>
+  ### Всем привет <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY5MTk0Mzk2NDkxOTNiZDA5ZDlhYWZhOWNjMGU1ZGVjNTAwMGQ1NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/w1OBpBd7kJqHrJnJ13/giphy.gif" width="35px"/>
+Меня зовут Артур, закончил курсы по специальности "Аналитика данных". Выбрал это направление, т.к. считаю что умение получать новую информацию и правильно ее интерпретировать хорошо помогает в жизни. Быть информированным важно, как для человека, так и для бизнеса, если хочешь быть эффективным и достигать свои цели. И профессия "Аналитик данных" поможет тебе в этом... Так же нравится разбираться в статистике, графиках и т.п.
