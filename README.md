@@ -14,6 +14,6 @@
 <img src="https://komarev.com/ghpvc/?username=Dessertaa&style=flat-square&color=blue" alt=""/>
 
 <h1>
-  Hi people
+  Всем привет
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY5MTk0Mzk2NDkxOTNiZDA5ZDlhYWZhOWNjMGU1ZGVjNTAwMGQ1NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/w1OBpBd7kJqHrJnJ13/giphy.gif" width="35px"/>
 </h1>
