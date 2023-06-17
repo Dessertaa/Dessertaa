@@ -8,7 +8,7 @@
   <a href="https://vk.com/dessertaa">
     <img src="https://img.shields.io/badge/ВКонтакте-blue?style=for-the-badge&logo=vk&logoColor=white" alt="vk Badge"/>
   </a>
-  <a href="t.me/Dessertaa">
+  <a href="https://t.me/Dessertaa">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
