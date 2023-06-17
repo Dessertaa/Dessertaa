@@ -15,5 +15,5 @@
 
 <h1>
   Hi people
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://giphy.com/gifs/gamerhog-xT39D7D1jX4ZjGK5EI" width="30px"/>
 </h1>
