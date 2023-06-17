@@ -15,7 +15,7 @@
 - Jupyter Lab / Notebook / PyCharm / VS Code
 
 
-Связаться со мной + ознакомиться с моими работами можно по ссылкам ниже
+Связаться со мной и ознакомиться с работами можно по ссылкам ниже
 
 <div id="badges">
   <a href="https://vk.com/dessertaa">
