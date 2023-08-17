@@ -14,17 +14,9 @@
 - Python (pandas, numpy, matplotlib)
 - Jupyter Lab / Notebook / PyCharm / VS Code
 
+---
 
-Связаться со мной и ознакомиться с моими работами можно по ссылкам ниже
-
-<div id="badges">
-  <a href="https://vk.com/dessertaa">
-    <img src="https://img.shields.io/badge/ВКонтакте-blue?style=for-the-badge&logo=vk&logoColor=white" alt="vk Badge"/>
-  </a>
-  <a href="https://t.me/Dessertaa">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-</div>
+Познакомиться с моими работами можно по ссылкам ниже:
 
 <div id="badges">
   <a href="https://docs.google.com/spreadsheets/d/1y8OQxgtVzE5YMQvjxpiT5q0_n43Dv5Jn_8rj4Jka-Zs/edit#gid=1515904277">
@@ -85,6 +77,16 @@
     <img src="https://img.shields.io/badge/Project%2010.%20-%20%D0%A0%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%20%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%20(collections,%20psycopg2,%20itertools)-blue" alt="pandas"/>
   </a>
 </div>
-  
+
+---
+Контакты для связи:
+<div id="badges">
+  <a href="https://vk.com/dessertaa">
+    <img src="https://img.shields.io/badge/ВКонтакте-blue?style=for-the-badge&logo=vk&logoColor=white" alt="vk Badge"/>
+  </a>
+  <a href="https://t.me/Dessertaa">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
 
 <img src="https://komarev.com/ghpvc/?username=Dessertaa&style=flat-square&color=blue" alt=""/>
