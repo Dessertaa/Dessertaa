@@ -29,10 +29,7 @@
 
 <div id="badges">
   <a href="https://docs.google.com/spreadsheets/d/1y8OQxgtVzE5YMQvjxpiT5q0_n43Dv5Jn_8rj4Jka-Zs/edit#gid=1515904277">
-    <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="vk Badge"/>
-  </a>
-  <a href="https://t.me/Dessertaa">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="google sheets"/>
   </a>
 </div>
 
