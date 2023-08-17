@@ -63,7 +63,8 @@
 </div>
 
 <div id="badges">
-  <a href="https://img.shields.io/badge/Project%207.%20-%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BA%D0%B8%20(pandas,%20matplotlib)-blue" alt="pandas"/>
+  <a href="https://drive.google.com/file/d/1IGnHQFyy0JU_ew4q390JmQU28geCOhW0/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Project%207.%20-%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BA%D0%B8%20(pandas,%20matplotlib)-blue" alt="pandas"/>
   </a>
 </div>
  
