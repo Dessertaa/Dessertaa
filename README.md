@@ -28,22 +28,32 @@
 
 <img src="https://komarev.com/ghpvc/?username=Dessertaa&style=flat-square&color=blue" alt=""/>
 
-Project-1. Анализ бизнес модели (google sheets) Dessertaa https://docs.google.com/spreadsheets/d/1y8OQxgtVzE5YMQvjxpiT5q0_n43Dv5Jn_8rj4Jka-Zs/edit#gid=1515904277
+Project-1. Анализ бизнес модели (google sheets)
+https://docs.google.com/spreadsheets/d/1y8OQxgtVzE5YMQvjxpiT5q0_n43Dv5Jn_8rj4Jka-Zs/edit#gid=1515904277
 
-Project-2. Реклама в цифрах (Power BI) https://drive.google.com/file/d/1pkoBh_Xc4CDcUbPUfUjoYvZ_GDoRPmgV/view?usp=sharing
+Project-2. Реклама в цифрах (Power BI)
+https://drive.google.com/file/d/1pkoBh_Xc4CDcUbPUfUjoYvZ_GDoRPmgV/view?usp=sharing
 
-Project-3. Динамика продаж внутриигровых товаров (Power BI) https://drive.google.com/file/d/1la838YYGPvrBBo0j1CsWYtR9CO5c3LGF/view?usp=sharing
+Project-3. Динамика продаж внутриигровых товаров (Power BI)
+https://drive.google.com/file/d/1la838YYGPvrBBo0j1CsWYtR9CO5c3LGF/view?usp=sharing
 
-Project-4. Эффективность маркетинговых кампаний (Power BI) https://drive.google.com/file/d/1hIJG3PvJjWsXh_HdHZgLVacryIZNydPp/view?usp=sharing
+Project-4. Эффективность маркетинговых кампаний (Power BI)
+https://drive.google.com/file/d/1hIJG3PvJjWsXh_HdHZgLVacryIZNydPp/view?usp=sharing
 
-Project-5. Продажа онлайн офисных товаров, рекомендации места для создания офлайн магазина (SQL) https://docs.google.com/document/d/1Kf3uRoYLcCZsPbNMovo764n4CUduhKHmETSUBYqaJAk/edit?usp=sharing
+Project-5. Продажа онлайн офисных товаров, рекомендации места для создания офлайн магазина (SQL)
+https://docs.google.com/document/d/1Kf3uRoYLcCZsPbNMovo764n4CUduhKHmETSUBYqaJAk/edit?usp=sharing
 
-Project-6. Исследование поведения пользователей в игре(pandas) https://drive.google.com/file/d/1CvIzz8-3bgbnO4dLXFnmdNuJvvJAFBPU/view?usp=sharing
+Project-6. Исследование поведения пользователей в игре(pandas)
+https://drive.google.com/file/d/1CvIzz8-3bgbnO4dLXFnmdNuJvvJAFBPU/view?usp=sharing
 
-Project-7. Анализ воронки (pandas, matplotlib) https://drive.google.com/file/d/1IGnHQFyy0JU_ew4q390JmQU28geCOhW0/view?usp=sharing
+Project-7. Анализ воронки (pandas, matplotlib)
+https://drive.google.com/file/d/1IGnHQFyy0JU_ew4q390JmQU28geCOhW0/view?usp=sharing
 
-Project-8. Яндекс метрика. Узнать кол-во ботов и их источники трафика (pandas, requests, matplotlib) https://drive.google.com/file/d/1zOZWxg74y6u6JEiFs5M93Wz3fW0x_Jqz/view?usp=sharing
+Project-8. Яндекс метрика. Узнать кол-во ботов и их источники трафика (pandas, requests, matplotlib)
+https://drive.google.com/file/d/1zOZWxg74y6u6JEiFs5M93Wz3fW0x_Jqz/view?usp=sharing
 
-Project-9. Оценка эффективности новой фичи (pandas, numpy,  psycopg2) https://drive.google.com/file/d/1H_6qqg1Efx9pdXeI65Mbu-B3TnjJ75fa/view?usp=sharing
+Project-9. Оценка эффективности новой фичи (pandas, numpy,  psycopg2)
+https://drive.google.com/file/d/1H_6qqg1Efx9pdXeI65Mbu-B3TnjJ75fa/view?usp=sharing
 
-Project-10. Рекомендательная система курсов (collections, psycopg2, itertools) https://drive.google.com/file/d/1ThgzQaWISwsaAWzL1ma2sNDyN7YDCAjC/view?usp=sharing
+Project-10. Рекомендательная система курсов (collections, psycopg2, itertools)
+https://drive.google.com/file/d/1ThgzQaWISwsaAWzL1ma2sNDyN7YDCAjC/view?usp=sharing
