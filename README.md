@@ -26,8 +26,6 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=Dessertaa&style=flat-square&color=blue" alt=""/>
-
 Project-1. Анализ бизнес модели (google sheets)  
 https://docs.google.com/spreadsheets/d/1y8OQxgtVzE5YMQvjxpiT5q0_n43Dv5Jn_8rj4Jka-Zs/edit#gid=1515904277
 
@@ -57,3 +55,5 @@ https://drive.google.com/file/d/1H_6qqg1Efx9pdXeI65Mbu-B3TnjJ75fa/view?usp=shari
 
 Project-10. Рекомендательная система курсов (collections, psycopg2, itertools)  
 https://drive.google.com/file/d/1ThgzQaWISwsaAWzL1ma2sNDyN7YDCAjC/view?usp=sharing
+
+<img src="https://komarev.com/ghpvc/?username=Dessertaa&style=flat-square&color=blue" alt=""/>
