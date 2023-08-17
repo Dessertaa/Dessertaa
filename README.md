@@ -38,19 +38,14 @@
   </a>
 </div>
 
+<div id="badges">
+  <a href="https://drive.google.com/file/d/1la838YYGPvrBBo0j1CsWYtR9CO5c3LGF/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Project3.%20-%20%D0%94%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D0%BA%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%20%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D1%8B%D1%85%20%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%BE%D0%B2%20(Power%20BI)-blue" alt="power bi"/>
+  </a>
+</div>
 
 
-
-
-
-Project-1. Анализ бизнес модели (google sheets)  
-https://docs.google.com/spreadsheets/d/1y8OQxgtVzE5YMQvjxpiT5q0_n43Dv5Jn_8rj4Jka-Zs/edit#gid=1515904277
-
-Project-2. Реклама в цифрах (Power BI)  
-https://drive.google.com/file/d/1pkoBh_Xc4CDcUbPUfUjoYvZ_GDoRPmgV/view?usp=sharing
-
-Project-3. Динамика продаж внутриигровых товаров (Power BI)  
-https://drive.google.com/file/d/1la838YYGPvrBBo0j1CsWYtR9CO5c3LGF/view?usp=sharing
+ 
 
 Project-4. Эффективность маркетинговых кампаний (Power BI)  
 https://drive.google.com/file/d/1hIJG3PvJjWsXh_HdHZgLVacryIZNydPp/view?usp=sharing
