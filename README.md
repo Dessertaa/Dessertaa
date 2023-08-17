@@ -26,7 +26,7 @@
   </a>
 </div>
 
-
+Project-1. Анализ бизнес модели (google sheets)  
 <div id="badges">
   <a href="https://docs.google.com/spreadsheets/d/1y8OQxgtVzE5YMQvjxpiT5q0_n43Dv5Jn_8rj4Jka-Zs/edit#gid=1515904277">
     <img src="https://img.shields.io/badge/google%20sheets-blue" alt="google sheets"/>
@@ -35,7 +35,6 @@
 
 Project-1. Анализ бизнес модели (google sheets)  
 https://docs.google.com/spreadsheets/d/1y8OQxgtVzE5YMQvjxpiT5q0_n43Dv5Jn_8rj4Jka-Zs/edit#gid=1515904277
-https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif
 
 Project-2. Реклама в цифрах (Power BI)  
 https://drive.google.com/file/d/1pkoBh_Xc4CDcUbPUfUjoYvZ_GDoRPmgV/view?usp=sharing
