@@ -30,12 +30,12 @@
   <a href="https://docs.google.com/spreadsheets/d/1y8OQxgtVzE5YMQvjxpiT5q0_n43Dv5Jn_8rj4Jka-Zs/edit#gid=1515904277">
     <img src="https://img.shields.io/badge/Project%201.%20-%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%20(google%20sheets)-blue" alt="google sheets"/>
   </a>
+</div>
+
+<div id="badges">
   <a href="https://drive.google.com/file/d/1pkoBh_Xc4CDcUbPUfUjoYvZ_GDoRPmgV/view?usp=sharing">
     <img src="https://img.shields.io/badge/Project%202.-%20%D0%A0%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%B0%20%D0%B2%20%D1%86%D0%B8%D1%84%D1%80%D0%B0%D1%85%20(Power%20BI)-blue" alt="power bi"/>
   </a>
-
-
-  
 </div>
 
 
