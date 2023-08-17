@@ -28,3 +28,4 @@
 
 <img src="https://komarev.com/ghpvc/?username=Dessertaa&style=flat-square&color=blue" alt=""/>
 
+Project-1. Анализ бизнес модели (google sheets) Dessertaa https://docs.google.com/spreadsheets/d/1y8OQxgtVzE5YMQvjxpiT5q0_n43Dv5Jn_8rj4Jka-Zs/edit#gid=1515904277
