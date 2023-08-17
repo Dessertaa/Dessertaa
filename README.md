@@ -25,11 +25,10 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-
-Project-1. Анализ бизнес модели (google sheets)  
+ 
 <div id="badges">
   <a href="https://docs.google.com/spreadsheets/d/1y8OQxgtVzE5YMQvjxpiT5q0_n43Dv5Jn_8rj4Jka-Zs/edit#gid=1515904277">
-    <img src="https://img.shields.io/badge/google%20sheets-blue" alt="google sheets"/>
+    <img src="https://img.shields.io/badge/google%20sheets-blue" alt="Project-1. Анализ бизнес модели (google sheets)"/>
   </a>
 </div>
 
