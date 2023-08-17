@@ -49,11 +49,14 @@
     <img src="https://img.shields.io/badge/Project%204.%20-%20%D0%AD%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D1%85%20%D0%BA%D0%B0%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B9%20(Power%20BI)-blue" alt="power bi"/>
   </a>
 </div>
+
+<div id="badges">
+  <a href="https://docs.google.com/document/d/1Kf3uRoYLcCZsPbNMovo764n4CUduhKHmETSUBYqaJAk/edit?usp=sharing">
+    <img src="https://img.shields.io/badge/Project%205.%20-%20%D0%9F%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B0%20%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD%20%D0%BE%D1%84%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%BE%D0%B2,%20%D1%80%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%86%D0%B8%D0%B8%20%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%84%D0%BB%D0%B0%D0%B9%D0%BD%20%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0%20(SQL)-blue" alt="sql"/>
+  </a>
+</div>
  
 
-
-Project 5. - Продажа онлайн офисных товаров, рекомендации места для создания офлайн магазина (SQL)  
-https://docs.google.com/document/d/1Kf3uRoYLcCZsPbNMovo764n4CUduhKHmETSUBYqaJAk/edit?usp=sharing
 
 Project 6. - Исследование поведения пользователей в игре(pandas)  
 https://drive.google.com/file/d/1CvIzz8-3bgbnO4dLXFnmdNuJvvJAFBPU/view?usp=sharing
