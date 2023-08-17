@@ -79,11 +79,12 @@
     <img src="https://img.shields.io/badge/Project%209.%20-%20%D0%9E%D1%86%D0%B5%D0%BD%D0%BA%D0%B0%20%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%BD%D0%BE%D0%B2%D0%BE%D0%B9%20%D1%84%D0%B8%D1%87%D0%B8%20(pandas,%20numpy,%20%20psycopg2)-blue" alt="pandas"/>
   </a>
 </div>
- 
 
-
-
-Project 10. - Рекомендательная система курсов (collections, psycopg2, itertools)  
-https://drive.google.com/file/d/1ThgzQaWISwsaAWzL1ma2sNDyN7YDCAjC/view?usp=sharing
+<div id="badges">
+  <a href="https://drive.google.com/file/d/1ThgzQaWISwsaAWzL1ma2sNDyN7YDCAjC/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Project%2010.%20-%20%D0%A0%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%20%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%20(collections,%20psycopg2,%20itertools)-blue" alt="pandas"/>
+  </a>
+</div>
+  
 
 <img src="https://komarev.com/ghpvc/?username=Dessertaa&style=flat-square&color=blue" alt=""/>
