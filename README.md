@@ -55,11 +55,17 @@
     <img src="https://img.shields.io/badge/Project%205.%20-%20%D0%9E%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B0%20%D0%BE%D1%84%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%BE%D0%B2,%20%D1%80%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%86%D0%B8%D0%B8%20%D0%BC%D0%B5%D1%81%D1%82%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%84%D0%BB%D0%B0%D0%B9%D0%BD%20%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0%20(SQL)-blue" alt="sql"/>
   </a>
 </div>
+
+<div id="badges">
+  <a href="https://drive.google.com/file/d/1CvIzz8-3bgbnO4dLXFnmdNuJvvJAFBPU/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Project%206.%20-%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D0%B2%20%D0%B8%D0%B3%D1%80%D0%B5(pandas)-blue-blue" alt="pandas"/>
+  </a>
+</div>
  
 
 
 Project 6. - Исследование поведения пользователей в игре(pandas)  
-https://drive.google.com/file/d/1CvIzz8-3bgbnO4dLXFnmdNuJvvJAFBPU/view?usp=sharing
+
 
 Project 7. - Анализ воронки (pandas, matplotlib)  
 https://drive.google.com/file/d/1IGnHQFyy0JU_ew4q390JmQU28geCOhW0/view?usp=sharing
