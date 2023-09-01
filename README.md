@@ -5,6 +5,12 @@
   ### Всем привет <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY5MTk0Mzk2NDkxOTNiZDA5ZDlhYWZhOWNjMGU1ZGVjNTAwMGQ1NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/w1OBpBd7kJqHrJnJ13/giphy.gif" width="35px"/>
 Меня зовут Артур, я начинающий аналитик данных. Выбрал это направление т.к. считаю, что умение получать новую информацию и правильно ее интерпретировать очень важно в современном мире и я решил этому научиться. Это помогает быть эффективным и достигать свои цели. Является важным как для человека, так и для бизнеса. Так же нравится разбираться в статистике, графиках и т.п.  
 
+<div id="badges">
+  <a href="https://docs.google.com/document/d/1_nVbrrYT9NKWNR0OrUuUCKIiH_tSIda45wj9H2FB2aQ/edit">
+    <img src="https://img.shields.io/badge/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-blue?style=for-the-badge" alt="Badge"/>
+  </a>
+</div>
+
 ---
 
 #### Инструменты, с которыми я работаю:
