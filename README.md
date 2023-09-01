@@ -78,9 +78,10 @@
   </a>
 </div>
 ---
+
 <div id="badges">
   <a href="https://docs.google.com/document/d/1_nVbrrYT9NKWNR0OrUuUCKIiH_tSIda45wj9H2FB2aQ/edit">
-    <img src="https://img.shields.io/badge/Project%2010.%20-%20%D0%A0%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%20%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%20(collections,%20psycopg2,%20itertools)-blue" alt="pandas"/>
+    <img src="https://img.shields.io/badge/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-blue?style=for-the-badge" alt="Badge"/>
   </a>
 </div>
 ---
