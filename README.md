@@ -86,14 +86,6 @@
 
 ---
 
-<div id="badges">
-  <a href="https://docs.google.com/document/d/1_nVbrrYT9NKWNR0OrUuUCKIiH_tSIda45wj9H2FB2aQ/edit">
-    <img src="https://img.shields.io/badge/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-blue?style=for-the-badge" alt="Badge"/>
-  </a>
-</div>
-
----
-
 Контакты для связи:
 <div id="badges">
   <a href="https://vk.com/dessertaa">
