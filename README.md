@@ -100,6 +100,9 @@
   <a href="https://t.me/Dessertaa">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+    <a href="https://Dessertaa@mail.ru">
+    <img src="https://img.shields.io/badge/Mail.ru-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=Dessertaa&style=flat-square&color=blue" alt=""/>
