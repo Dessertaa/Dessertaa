@@ -2,7 +2,8 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJubGIyYTl6a3dmMWhqYTRwZThqanluMm8wNGd2dzVoZTN1ZTV3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&lines=%D0%92%D1%81%D0%B5%D0%BC+%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82)](https://git.io/typing-svg)<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY5MTk0Mzk2NDkxOTNiZDA5ZDlhYWZhOWNjMGU1ZGVjNTAwMGQ1NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/w1OBpBd7kJqHrJnJ13/giphy.gif" width="35px"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY5MTk0Mzk2NDkxOTNiZDA5ZDlhYWZhOWNjMGU1ZGVjNTAwMGQ1NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/w1OBpBd7kJqHrJnJ13/giphy.gif" width="35px"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&lines=%D0%92%D1%81%D0%B5%D0%BC+%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82)](https://git.io/typing-svg)
 
   ### Всем привет <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY5MTk0Mzk2NDkxOTNiZDA5ZDlhYWZhOWNjMGU1ZGVjNTAwMGQ1NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/w1OBpBd7kJqHrJnJ13/giphy.gif" width="35px"/>
 Меня зовут Артур, я начинающий аналитик данных. Выбрал это направление т.к. считаю, что умение получать новую информацию и правильно ее интерпретировать очень важно в современном мире и я решил этому научиться. Это помогает быть эффективным и достигать свои цели. Является важным как для человека, так и для бизнеса. Так же нравится разбираться в статистике, графиках и т.п.  
