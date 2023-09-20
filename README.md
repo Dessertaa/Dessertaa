@@ -3,6 +3,7 @@
 </div>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY5MTk0Mzk2NDkxOTNiZDA5ZDlhYWZhOWNjMGU1ZGVjNTAwMGQ1NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/w1OBpBd7kJqHrJnJ13/giphy.gif" width="35px"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&lines=%D0%92%D1%81%D0%B5%D0%BC+%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82)](https://git.io/typing-svg)
 
   ### Всем привет <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY5MTk0Mzk2NDkxOTNiZDA5ZDlhYWZhOWNjMGU1ZGVjNTAwMGQ1NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/w1OBpBd7kJqHrJnJ13/giphy.gif" width="35px"/>
