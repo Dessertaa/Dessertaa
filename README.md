@@ -18,7 +18,7 @@
 - SQL (вложенные запросы, CTE запросы, оконные функции)
 - Power BI (дашборды, отчеты, выводы)
 - Python (pandas, numpy, matplotlib)
-- Jupyter Lab / Notebook / PyCharm / VS Code / DBeaver / Metabase
+- Jupyter Lab / Notebook / PyCharm / VS Code / PostgreSQL / DBeaver / Metabase
 
 ---
 
