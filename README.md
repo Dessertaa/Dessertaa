@@ -37,8 +37,8 @@
 </div>
 
 <div id="badges">
-  <a href="https://drive.google.com/file/d/1la838YYGPvrBBo0j1CsWYtR9CO5c3LGF/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Project%203.%20-%20%D0%94%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D0%BA%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%20%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D1%8B%D1%85%20%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%BE%D0%B2%20(Power%20BI)-blue" alt="power bi"/>
+  <a href="https://app.powerbi.com/reportEmbed?reportId=61457bc8-a22b-4f22-9e71-0ca3ef0899a3&autoAuth=true&ctid=6a4dee01-c3f5-4d4b-bdd2-9e1f1482ac5d">
+    <img src="https://img.shields.io/badge/Project%203.%20-%20%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0.%20%D0%9E%D1%82%D1%87%D1%91%D1%82%20%D0%BE%20%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D0%BE%D0%BC%20%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D1%82%D0%B5%20%D0%B7%D0%B0%202%20%D0%B3%D0%BE%D0%B4%D0%B0%20(Power%20BI)-blue" alt="power bi"/>
   </a>
 </div>
 
