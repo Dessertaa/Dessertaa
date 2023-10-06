@@ -93,7 +93,7 @@
 
 ---
 
-Контакты для связи:
+**Контакты для связи:**
 <div id="badges">
   <a href="https://vk.com/dessertaa">
     <img src="https://img.shields.io/badge/ВКонтакте-blue?style=for-the-badge&logo=vk&logoColor=white" alt="vk Badge"/>
