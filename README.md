@@ -30,11 +30,11 @@
   </a>
 </div>
 
-<div id="badges">
-  <a href="https://app.powerbi.com/reportEmbed?reportId=5793b529-9c99-4022-9e7f-f610f89c1e28&autoAuth=true&ctid=6a4dee01-c3f5-4d4b-bdd2-9e1f1482ac5d">
-    <img src="https://img.shields.io/badge/Project%202.-%20Marketing.%20%D0%9E%D1%82%D1%87%D1%91%D1%82%20%D0%BF%D0%BE%20%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%BC%20%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D0%BC%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B%20(Power%20BI)-blue" alt="power bi"/>
-  </a>
-</div>
+--<div id="badges">
+--  <a href="https://app.powerbi.com/reportEmbed?reportId=5793b529-9c99-4022-9e7f-f610f89c1e28&autoAuth=true&ctid=6a4dee01-c3f5-4d4b-bdd2-9e1f1482ac5d">
+--    <img src="https://img.shields.io/badge/Project%202.-%20Marketing.%20%D0%9E%D1%82%D1%87%D1%91%D1%82%20%D0%BF%D0%BE%20%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%BC%20%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D0%BC%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B%20(Power%20BI)-----blue" alt="power bi"/>
+--  </a>
+--</div>
 
 <div id="badges">
   <a href="https://app.powerbi.com/reportEmbed?reportId=61457bc8-a22b-4f22-9e71-0ca3ef0899a3&autoAuth=true&ctid=6a4dee01-c3f5-4d4b-bdd2-9e1f1482ac5d">
