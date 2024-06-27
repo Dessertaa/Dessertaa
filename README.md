@@ -30,14 +30,6 @@
   </a>
 </div>
 
-
-
-<div id="badges">
-  <a href="https://app.powerbi.com/reportEmbed?reportId=c0fb4a9e-333f-464a-a8fd-c4055d8accb3&autoAuth=true&ctid=6a4dee01-c3f5-4d4b-bdd2-9e1f1482ac5d">
-    <img src="https://img.shields.io/badge/Project%204.%20-%20Gamedev,%20marketing.%20%D0%AD%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D1%85%20%D0%BA%D0%B0%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B9,%20ltv%20(Power%20BI)-blue" alt="power bi"/>
-  </a>
-</div>
-
 <div id="badges">
   <a href="https://docs.google.com/document/d/1Kf3uRoYLcCZsPbNMovo764n4CUduhKHmETSUBYqaJAk/edit?usp=sharing">
     <img src="https://img.shields.io/badge/Project%205.%20-%20E_commerce.%20%D0%9F%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B0%20%D0%BE%D1%84%D0%B8%D1%81%D0%BD%D1%8B%D1%85%20%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%BE%D0%B2%20%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD%20(SQL)-blue" alt="sql"/>
