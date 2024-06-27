@@ -17,9 +17,8 @@
 **Инструменты, с которыми я работаю:**
 - Excel / Google-таблицы (сводные таблицы, графики/диаграммы, работа с формулами)
 - SQL (вложенные запросы, CTE запросы, оконные функции)
-- Power BI (дашборды, отчеты, выводы)
 - Python (pandas, numpy, matplotlib)
-- Jupyter Lab / Notebook / PyCharm / VS Code / PostgreSQL / DBeaver / Metabase
+- Jupyter Lab / Notebook / PyCharm / VS Code / PostgreSQL / Microsoft sql server management studio / DBeaver / Metabase
 
 ---
 
